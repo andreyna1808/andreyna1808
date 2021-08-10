@@ -27,6 +27,6 @@
   <a href="https://www.linkedin.com/in/andreyna-carvalho-7a8aa5212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.tiktok.com/@reflexaohumana?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/andreyna1808/andreyna1808/blob/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/andreyna1808/andreyna1808/blob/main/github/workflows/main.yml)
   
 </div>
