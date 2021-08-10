@@ -19,8 +19,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="AndreynaGif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
+  <img src="meu.gif" alt="meu.gif"></div>
 
  ##
  
@@ -32,6 +31,6 @@
   <a href="https://www.tiktok.com/@reflexaohumana?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
 
  
-  ![Snake animation](meu.gif)
- 
+  ![Snake animation](https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg)
+
 </div>
