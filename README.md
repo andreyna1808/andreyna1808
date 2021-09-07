@@ -6,11 +6,7 @@
 - 💬 Meu MBTI é INTJ.
 - 😄 Conhecimento de inglês intermediário e Mandarim HSK3 (em progresso).
 
-  <div>
-  <a href="https://github.com/andreyna1808">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Andreyna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andreyna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,3 +25,9 @@
   ![Snake animation](https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+ <p align = "center">
+  <a href="https://github.com/andreyna1808"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/DgSantos017"><img src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="andreyna1808"/></a>
+</p>  
+  
