@@ -6,8 +6,11 @@
 - 💬 Meu MBTI é INTJ.
 - 😄 Conhecimento de inglês intermediário e Mandarim HSK3 (em progresso).
 
+  Meu nome é Andreyna, sou futura desenvolvedora FullStack, tenho 19 anos e sou apaixonada pela área da tecnologia. Gosto de desafios, projetos em grupo e aprendizado contínuo. Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado. Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
+   Costumo fazer as atividades com agilidade para que eu possa desenvolver meus próprios projetos, não trabalho aos sábados.
 
- <p align>
+
+ <p align = "center">
   <a href="https://github.com/andreyna1808"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=dark"/></a> 
   <a href="https://github.com/DgSantos017"><img src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="andreyna1808"/></a>
 </p> 
