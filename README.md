@@ -1,6 +1,6 @@
 ### 👋 Olá eu sou a Andreyna Marques Carvalho 
 
-- 🔭 Estou estudando programação FullStack na Kenzie turma de Julho 2021.
+- 🔭 Estou estudando programação FullStack.
 - 🌱 Estou fazendo faculdade de Engenharia de Software e Relações Internacionais.
 - 👯 Procuro adquirir e evoluir minhas habilidades.
 - 💬 Meu MBTI é INTJ.
