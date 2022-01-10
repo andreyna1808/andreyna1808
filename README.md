@@ -22,7 +22,12 @@
   <img align="center" alt="Andreyna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreyna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andreyna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" src="meu.gif" alt="meu.gif" height="180" width="180"></div>
+   <img align="center" alt="Andreyna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Andreyna-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+      <img align="center" alt="Andreyna-Node" height="30" width="40" src="https://avatars.githubusercontent.com/u/16929016?s=200&v=4">
+
+ 
+ <img align="right" src="meu.gif" alt="meu.gif" height="180" width="180"></div>
 
  ##
 <div> 
