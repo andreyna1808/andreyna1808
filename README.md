@@ -12,10 +12,13 @@
 - Hi! My name is Andreyna, I'm a future FullStack developer (June/22), I'm 20 years old.
 - I like challenges and I am looking for a collaborative company to work with. 
 
+### Minhas atividades
  <p align = "center">
   <a href="https://github.com/andreyna1808"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=dark"/></a> 
   <a href="https://github.com/DgSantos017"><img src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="andreyna1808"/></a>
 </p> 
+
+### Tenho conhecimento / estou aprendendo. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andreyna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +32,7 @@
  
  <img align="right" src="meu.gif" alt="meu.gif" height="180" width="180"></div>
 
- ##
+ ### Entre em contato.
 <div> 
   <a href="https://www.youtube.com/channel/UCBIL9fcbrliSq_cGxqHr6sA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andreyna_mc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
