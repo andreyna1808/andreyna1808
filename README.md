@@ -1,14 +1,16 @@
-### 👋 Olá eu sou a Andreyna Marques Carvalho 
+### 👋 Olá, eu sou a Andreyna Carvalho || Hi, I'm Andreyna Carvalho.
 
-- 🔭 Estou estudando programação FullStack.
-- 🌱 Estou fazendo faculdade de Engenharia de Software e Relações Internacionais.
-- 👯 Procuro adquirir e evoluir minhas habilidades.
-- 💬 Meu MBTI é INTJ.
+- 🔭 Estou estudando programação FullStack || -  I'm studying FullStack developer
+- 👯 Procuro adquirir e evoluir minhas habilidades. || - I try to acquire and develop my skills.
+- 💬 Meu MBTI é INTJ. || - My MBTI is INTJ.
+
+
 - 😄 Conhecimento de inglês intermediário e Mandarim HSK3 (em progresso).
 
  -  Meu nome é Andreyna, sou futura desenvolvedora FullStack, tenho 20 anos e sou apaixonada pela área da tecnologia. Gosto de desafios, projetos em grupo e aprendizado contínuo. Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado. Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
- -  Costumo fazer as atividades com agilidade para que eu possa desenvolver meus próprios projetos, não trabalho aos sábados.
 
+- Hi! My name is Andreyna, I'm a future FullStack developer (June/22), I'm 20 years old.
+- I like challenges and I am looking for a collaborative company to work with. 
 
  <p align = "center">
   <a href="https://github.com/andreyna1808"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=dark"/></a> 
