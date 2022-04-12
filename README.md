@@ -58,6 +58,7 @@
    <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=gruvbox&hide_border=true" />
    <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyna1808&theme=gruvbox&hide_border=true" />
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=gruvbox" />
+   <img width="40%" src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
 </p><br>
 
 <div>
