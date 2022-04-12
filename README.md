@@ -66,11 +66,11 @@
 
  ### Entre em contato.
 <div> 
-  <a href="https://www.youtube.com/channel/UCBIL9fcbrliSq_cGxqHr6sA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/devdrica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: andreyna.m.carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreyna-carvalho-997273231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5548991052198" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a> 
+  <a target="_blank" href="https://www.youtube.com/channel/UCBIL9fcbrliSq_cGxqHr6sA"><img target="_blank" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a target="_blank" href="https://www.instagram.com/devdrica/"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a target="_blank" href="mailto: andreyna.m.carvalho@gmail.com"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/andreyna-carvalho-997273231/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a target="_blank" href="https://wa.me/5548991052198"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   
 </div>
     <img src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
