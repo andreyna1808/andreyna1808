@@ -24,8 +24,8 @@
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </div>
   <div><br/>
- <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- <img alt="Java" height="30" width="40" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=orangered">
+ <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+ <img alt="Java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=orangered">
  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
  <img alt="Next" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </div><br/>
@@ -43,9 +43,8 @@ Bancos de Dados
 
 <br/>
 <p align="left">
-   <img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=gruvbox&hide_border=true" />
-   <img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyna1808&theme=gruvbox&hide_border=true" />
-   <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&theme=gruvbox&hide_langs_below=1" alt="Andreyna Carvalho github stats"/>
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=gruvbox&hide_border=true" />
+   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyna1808&theme=gruvbox&hide_border=true" />
 </p>
 
 <br>
@@ -64,6 +63,7 @@ Bancos de Dados
 </div>
   
   ![Snake animation](https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg)
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&theme=gruvbox&hide_langs_below=1" alt="Andreyna Carvalho github stats"/>
   
 </div> 
   
