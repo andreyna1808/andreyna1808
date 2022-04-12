@@ -50,7 +50,7 @@ Bancos de Dados
 <br>
 
 <div>
- <img align="right" src="meu.gif" alt="meu.gif" height="140" width="140">
+ <img align="right" src="meu.gif" alt="meu.gif" height="160" width="160">
 
  ### Entre em contato.
 <div> 
@@ -63,7 +63,6 @@ Bancos de Dados
 </div>
   
   ![Snake animation](https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg)
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&theme=gruvbox&hide_langs_below=1" alt="Andreyna Carvalho github stats"/>
   
 </div> 
   
