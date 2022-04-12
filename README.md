@@ -58,7 +58,7 @@
    <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=gruvbox&hide_border=true" />
    <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyna1808&theme=gruvbox&hide_border=true" />
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=gruvbox" />
-   <img width="40%" src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
+   <img width="50%" heugth="120px" src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
 </p><br>
 
 <div>
@@ -73,6 +73,5 @@
   <a href="https://wa.me/5548991052198" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a> 
   
 </div>
-     ![Snake animation](https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg)
 </div> 
   
