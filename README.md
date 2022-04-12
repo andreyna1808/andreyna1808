@@ -29,7 +29,7 @@
  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
  <img alt="Java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=orangered">
  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img alt="Next" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+ <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div><br/>
 
 ### Bancos de Dados
