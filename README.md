@@ -1,6 +1,5 @@
 ## Hello World! 🌎 
 
-### 👨‍💻 &nbsp; Quem sou eu ?
 ### 👋 Olá, eu sou Andreyna Carvalho || Hi, I'm Andreyna Carvalho vulgo Drica
 
 - 🔭 Estou estudando programação FullStack || -  I'm studying FullStack developer
