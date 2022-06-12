@@ -1,4 +1,4 @@
-![Gif](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
+![Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&color=F76709&center=true&vCenter=true&width=500&lines=Hello+World!!;My+name+is+Andreyna+-+FullStack+developer;Be+Welcome++%F0%9F%A4%97;Ol%C3%A1+Mundo!!;Meu+nome+%C3%A9+Andreyna+-+Dev.+FullStack;Fique+a+vontade+%F0%9F%A4%97;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C;%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%AE%89%E6%82%A6%E5%A8%9C+-+%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98;%E6%AC%A2%E8%BF%8E+%F0%9F%A4%97)](https://git.io/typing-svg)
 
