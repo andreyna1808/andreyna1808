@@ -50,6 +50,7 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-white.svg?style=for-the-badge&logo=insomnia&logoColor=purple)
+![Swagger](https://img.shields.io/badge/swagger-90EE90.svg?style=for-the-badge&logo=swagger&logoColor=006400)
 
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-devRel-_.svg)
 
