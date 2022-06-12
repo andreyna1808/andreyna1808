@@ -1,4 +1,6 @@
-![Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<div>
+ ![Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&color=F76709&center=true&vCenter=true&width=500&lines=Hello+World!!;My+name+is+Andreyna+-+FullStack+developer;Be+Welcome++%F0%9F%A4%97;Ol%C3%A1+Mundo!!;Meu+nome+%C3%A9+Andreyna+-+Dev.+FullStack;Fique+a+vontade+%F0%9F%A4%97;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C;%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%AE%89%E6%82%A6%E5%A8%9C+-+%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98;%E6%AC%A2%E8%BF%8E+%F0%9F%A4%97)](https://git.io/typing-svg)
 
@@ -46,7 +48,7 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-white.svg?style=for-the-badge&logo=insomnia&logoColor=purple)
-![Jest](https://img.shields.io/badge/jest-white.svg?style=for-the-badge&logo=jest&logoColor=critical
+![Jest](https://img.shields.io/badge/jest-white.svg?style=for-the-badge&logo=jest&logoColor=critical)
 
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-devRel-_.svg)
 
@@ -58,11 +60,13 @@
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=gruvbox)
 
 ### 👉 Contact
-![Linkedin](https://www.linkedin.com/in/andreyna-carvalho-997273231/)
-![Gmail](mailto: andreyna.m.carvalho@gmail.com)
-![Whatsapp](https://wa.me/5548991052198)
-![Instagram](https://www.instagram.com/devdrica/)
-![YouTube](https://www.youtube.com/channel/UCBIL9fcbrliSq_cGxqHr6sA)
+<div> 
+  <a target="_blank" href="https://www.youtube.com/channel/UCBIL9fcbrliSq_cGxqHr6sA"><img target="_blank" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a target="_blank" href="https://www.instagram.com/devdrica/"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a target="_blank" href="mailto: andreyna.m.carvalho@gmail.com"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/andreyna-carvalho-997273231/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a target="_blank" href="https://wa.me/5548991052198"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+</div>
 
 </div>
     <img src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
