@@ -1,76 +1,69 @@
-## Hello World! 🌎 
+![Gif](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 
-### 👋 Olá, eu sou Andreyna Carvalho || Hi, I'm Andreyna Carvalho vulgo Drica
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&color=F76709&center=true&vCenter=true&width=500&lines=Hello+World!!;My+name+is+Andreyna+-+FullStack+developer;Be+Welcome++%F0%9F%A4%97;Ol%C3%A1+Mundo!!;Meu+nome+%C3%A9+Andreyna+-+Dev.+FullStack;Fique+a+vontade+%F0%9F%A4%97;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C;%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%AE%89%E6%82%A6%E5%A8%9C+-+%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98;%E6%AC%A2%E8%BF%8E+%F0%9F%A4%97)](https://git.io/typing-svg)
 
-- 🔭 Estou estudando programação FullStack || -  I'm studying FullStack developer
-- 👯 Procuro adquirir e evoluir minhas habilidades. || - I try to acquire and develop my skills.
-- 💬 Meu MBTI é INTJ. || - My MBTI is INTJ.
+ - Meu nome é Andreyna, desenvolvedora FullStack, tenho 20 anos e apaixonada pela área da tecnologia.
+ - Gosto de desafios, projetos em grupo e aprendizado contínuo.
+ - Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado.
+ - Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
 
-
-- 😄 Conhecimento de inglês intermediário e Mandarim HSK3 (em progresso).
-
- -  Meu nome é Andreyna, sou futura desenvolvedora FullStack, tenho 20 anos e sou apaixonada pela área da tecnologia. Gosto de desafios, projetos em grupo e aprendizado contínuo. Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado. Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
-
-- Hi! My name is Andreyna, I'm a future FullStack developer (June/22), I'm 20 years old.
+- Hi! My name is Andreyna, I'm a FullStack developer, I'm 20 years old.
 - I like challenges and I am looking for a collaborative company to work with. 
 
-### Tenho conhecimento / estou aprendendo. 
-<div>
-  <br/>
-  <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-</div>
-<div><br/>
- <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
- <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- <img alt="Java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=orangered">
- <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</div><br/>
+### 👉 Frontend
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![HTML5](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+ ![CSS3](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+ 
+ ### 👉 Backend
+![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Bancos de Dados
-<div><br/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Amazon" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white"/>
-</div> <br/>
-
-### Editor, Vesionamento de código e S.O
-<div><br/>
-  <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img alt="Windows" src="https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows&logoColor=blue"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</div> <br/>
+ ### 👉 Backend - basic
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+### 👉 IDEs
+![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## **GitHub Estatísticas**
+### 👉 Vesionamento de código e S.O
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<br/>
-<p align="left">
-   <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=gruvbox&hide_border=true" />
-   <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyna1808&theme=gruvbox&hide_border=true" />
-   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=gruvbox" />
-</p><br>
+### 👉 Other Tools and Technologies
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/insomnia-white.svg?style=for-the-badge&logo=insomnia&logoColor=purple)
+![Jest](https://img.shields.io/badge/jest-white.svg?style=for-the-badge&logo=jest&logoColor=critical
 
-<div>
- <img align="right" src="meu.gif" alt="meu.gif" height="160" width="160">
+![CleanCode](https://img.shields.io/badge/Clean%20Code-devRel-_.svg)
 
- ### Entre em contato.
-<div> 
-  <a target="_blank" href="https://www.youtube.com/channel/UCBIL9fcbrliSq_cGxqHr6sA"><img target="_blank" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a target="_blank" href="https://www.instagram.com/devdrica/"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a target="_blank" href="mailto: andreyna.m.carvalho@gmail.com"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/andreyna-carvalho-997273231/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a target="_blank" href="https://wa.me/5548991052198"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-  
+<br />
+<br />
+
+### 👉 **Statistics**
+![README](https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=gruvbox&hide_border=true")
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=gruvbox)
+
+### 👉 Contact
+![Linkedin](https://www.linkedin.com/in/andreyna-carvalho-997273231/)
+![Gmail](mailto: andreyna.m.carvalho@gmail.com)
+![Whatsapp](https://wa.me/5548991052198)
+![Instagram](https://www.instagram.com/devdrica/)
+![YouTube](https://www.youtube.com/channel/UCBIL9fcbrliSq_cGxqHr6sA)
+
 </div>
     <img src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
 </div> 
