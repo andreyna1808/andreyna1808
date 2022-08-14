@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Olá, sou o Andreyna Carvalho! :)
+  Olá, sou Andreyna Carvalho! :)
 </h1>
 
 ### 🌻 About me:
