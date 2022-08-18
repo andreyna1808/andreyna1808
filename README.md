@@ -51,7 +51,7 @@
 ### 👉 Para todos verem
 - No front-end possui os icones do HTML, CSS, Javascript, Typescript, React, Next, Sass, Styled Components, Bootstrap, Material ui, Jest e Figma.
 
-- No back-end possui os icones do Javascript, Typescript, Node, Express, Oostgres, Mongo e Jest.
+- No back-end possui os icones do Javascript, Typescript, Node, Express, Postgres, Mongo e Jest.
 
 - No Code versioning, S.O e IDE possui os icones do Linux, Git, Github, Gitlab e Visual Studio Code (vscode).
 
