@@ -27,7 +27,7 @@
 - 🗣️ Evoluir para inglês intermediário e alcançar o HSK3 (mandarim)
 
 ### 👉 Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,sass,styledcomponents,bootstrap,materialui,jest,figma
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,sass,styledcomponents,bootstrap,materialui,jest,figma,redux
 )](https://skillicons.dev)
  
  ### 👉 Backend
@@ -49,7 +49,7 @@
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-devRel-_.svg)
 
 ### 👉 Para todos verem
-- No front-end possui os icones do HTML, CSS, Javascript, Typescript, React, Next, Sass, Styled Components, Bootstrap, Material ui, Jest e Figma.
+- No front-end possui os icones do HTML, CSS, Javascript, Typescript, React, Next, Sass, Styled Components, Bootstrap, Material ui, Jest, Figma e Redux.
 
 - No back-end possui os icones do Javascript, Typescript, Node, Express, Postgres, Mongo e Jest.
 
