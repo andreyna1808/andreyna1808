@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    Tenho 20 anos, sou de Alta Floresta - MT e, atualmente, trabalho como Desenvolvedora FullStack na Coodesh (DevRel)
+    Tenho 20 anos, sou de Alta Floresta - MT e, atualmente, trabalho como Desenvolvedora Front-end na Coodesh (DevRel)
   </em>
 </p>
 
