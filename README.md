@@ -1,13 +1,13 @@
 
 <h1 align='center'>
-  Olá, sou Andreyna Carvalho! :)
+  Olá Mundo, sou Andreyna Carvalho! :)
 </h1>
 
 ### 🌻 About me:
 
 <p>
   <em>
-    Tenho 20 anos, sou de Alta Floresta - MT e, atualmente, trabalho como Desenvolvedora Front-end na Coodesh (DevRel)
+    Tenho 21 anos, Alta Floresta - MT e, atualmente, trabalho como Desenvolvedora Full Stack na Mage Hands (DevRel)
   </em>
 </p>
 
@@ -20,9 +20,9 @@
 
 - 📂 Expandir meu portfólio
 
-- 🤝 Contribuir em projetos open-source
+- 🤝 Contribuir para a comunidade Dev (respondendo no stackoverflow e gerando conteúdos nas redes)
 
-- 📈 Aprofundar meus conhecimentos
+- 📈 Aprofundar meus conhecimentos e praticar lógica de programação no CodeWars
 
 - 🗣️ Evoluir para inglês intermediário e alcançar o HSK3 (mandarim)
 
@@ -44,6 +44,8 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-purple.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-006400.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-white.svg?style=for-the-badge&logo=strapi&logoColor=4945FF)
+![AWS](https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazonAWS&logoColor=orange)
 
 
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-devRel-_.svg)
@@ -55,7 +57,7 @@
 
 - No Code versioning, S.O e IDE possui os icones do Linux, Git, Github, Gitlab e Visual Studio Code (vscode).
 
-- No Other Tools and Technologies possui os icones do Heroku, Docker, Postman, Insomnia e Swagger.
+- No Other Tools and Technologies possui os icones do Heroku, Docker, Postman, Insomnia, Swagger, Strapi e AWS.
 
 <br />
 
