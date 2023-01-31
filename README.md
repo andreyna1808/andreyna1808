@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, Alta Floresta - MT e, atualmente, trabalho como Desenvolvedora Full Stack na Mage Hands (DevRel)
+    Tenho 21 anos, Nova Canaã do Norte - MT e, atualmente, trabalho como Desenvolvedora Full Stack na Mage Hands (DevRel)
   </em>
 </p>
 
@@ -16,7 +16,7 @@
  - Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado.
  - Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
 
-### 📊 Goals 2022:
+### 📊 Goals 2023:
 
 - 📂 Expandir meu portfólio
 
@@ -24,7 +24,7 @@
 
 - 📈 Aprofundar meus conhecimentos e praticar lógica de programação no CodeWars
 
-- 🗣️ Evoluir para inglês intermediário e alcançar o HSK3 (mandarim)
+- 🗣️ Evoluir para inglês intermediário.
 
 ### 👉 Frontend
 [![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,sass,styledcomponents,bootstrap,materialui,jest,figma,redux
