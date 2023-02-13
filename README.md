@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, Nova Canaã do Norte - MT e, atualmente, trabalho como Desenvolvedora Full Stack na Mage Hands (DevRel)
+    Tenho 21 anos, Nova Canaã do Norte - MT e, atualmente, trabalho como Desenvolvedora Front-end na Codex
   </em>
 </p>
 
