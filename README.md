@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, atualmente trabalho como Desenvolvedora Front-end na Codex
+    Tenho 21 anos, atualmente trabalho como Desenvolvedora Front-end
   </em>
 </p>
 
