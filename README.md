@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, atualmente trabalho como Desenvolvedora Front-end
+    Tenho 22 anos, atualmente trabalho como Desenvolvedora Front-end
   </em>
 </p>
 
@@ -16,7 +16,7 @@
  - Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado.
  - Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
 
-### 📊 Goals 2023:
+### 📊 Goals 2024:
 
 - 📂 Expandir meu portfólio
 
@@ -24,13 +24,13 @@
 
 - 📈 Aprofundar meus conhecimentos e praticar lógica de programação no CodeWars
 
-- 🗣️ Evoluir para inglês intermediário.
+- 🗣️ Evoluir no inglês.
 
 ### 👉 Frontend
 [![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,sass,styledcomponents,bootstrap,materialui,jest,figma,redux
 )](https://skillicons.dev)
  
- ### 👉 Backend
+ ### 👉 Backend (por estar mais tempo no front, meus conhecimentos de back estão postergados)
 [![Habilidades back-end](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongo,jest
 )](https://skillicons.dev)
 
@@ -39,14 +39,11 @@
 )](https://skillicons.dev)
 
 ### 👉 Other Tools and Technologies
-![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-purple.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-006400.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-white.svg?style=for-the-badge&logo=strapi&logoColor=4945FF)
-![AWS](https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazonAWS&logoColor=orange)
-
 
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-devRel-_.svg)
 
@@ -57,7 +54,7 @@
 
 - No Code versioning, S.O e IDE possui os icones do Linux, Git, Github, Gitlab e Visual Studio Code (vscode).
 
-- No Other Tools and Technologies possui os icones do Heroku, Docker, Postman, Insomnia, Swagger, Strapi e AWS.
+- No Other Tools and Technologies possui os icones do Docker, Postman, Insomnia, Swagger e Strapi.
 
 <br />
 
