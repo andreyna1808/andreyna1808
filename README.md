@@ -30,8 +30,8 @@
 [![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,sass,styledcomponents,bootstrap,materialui,jest,figma,redux
 )](https://skillicons.dev)
  
- ### 👉 Backend (por estar mais tempo no front, meus conhecimentos de back estão postergados)
-[![Habilidades back-end](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongo,jest
+ ### 👉 Backend (estudando)
+[![Habilidades back-end](https://skillicons.dev/icons?i=java,kotlin
 )](https://skillicons.dev)
 
 ### 👉 Code versioning, S.O e IDE
@@ -50,9 +50,9 @@
 ### 👉 Para todos verem
 - No front-end possui os icones do HTML, CSS, Javascript, Typescript, React, Next, Sass, Styled Components, Bootstrap, Material ui, Jest, Figma e Redux.
 
-- No back-end possui os icones do Javascript, Typescript, Node, Express, Postgres, Mongo e Jest.
+- No back-end possui os icones do Java e Kotlin (estudando).
 
-- No Code versioning, S.O e IDE possui os icones do Linux, Git, Github, Gitlab e Visual Studio Code (vscode).
+- No Code versioning, S.O e IDE possui os icones do Linux, Git, Github, Gitlab e Visual Studio Code (vscode) + Windows.
 
 - No Other Tools and Technologies possui os icones do Docker, Postman, Insomnia, Swagger e Strapi.
 
@@ -72,7 +72,3 @@
   <a target="_blank" href="https://www.linkedin.com/in/andreyna-carvalho-997273231/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a target="_blank" href="https://wa.me/5548991052198"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 </div>
-
-</div>
-    <img src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
-</div> 
