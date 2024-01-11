@@ -31,7 +31,7 @@
 )](https://skillicons.dev)
  
  ### 👉 Backend (estudando)
-[![Habilidades back-end](https://skillicons.dev/icons?i=java,kotlin
+[![Habilidades back-end](https://skillicons.dev/icons?i=kotlin
 )](https://skillicons.dev)
 
 ### 👉 Code versioning, S.O e IDE
@@ -50,7 +50,7 @@
 ### 👉 Para todos verem
 - No front-end possui os icones do HTML, CSS, Javascript, Typescript, React, Next, Sass, Styled Components, Bootstrap, Material ui, Jest, Figma e Redux.
 
-- No back-end possui os icones do Java e Kotlin (estudando).
+- No back-end possui o icones de Kotlin (estudando).
 
 - No Code versioning, S.O e IDE possui os icones do Linux, Git, Github, Gitlab e Visual Studio Code (vscode) + Windows.
 
