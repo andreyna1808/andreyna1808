@@ -31,7 +31,7 @@
 )](https://skillicons.dev)
 
 ### 👉 Bibliotecas de estilização
-[![Habilidades front-end](https://skillicons.dev/icons?sass,styledcomponents,bootstrap,materialui
+[![Bibliotecas](https://skillicons.dev/icons?i=sass,styledcomponents,bootstrap,materialui
 )](https://skillicons.dev)
  
  ### 👉 Backend
