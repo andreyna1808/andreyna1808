@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    Tenho 22 anos, atualmente trabalho como Desenvolvedora Front-end
+    Tenho 23 anos, atualmente trabalho como Desenvolvedora Full Stack (Frontend: Js/Ts e Backend: C#/.Net)
   </em>
 </p>
 
@@ -16,7 +16,7 @@
  - Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado.
  - Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
 
-### 📊 Goals 2024:
+### 📊 Goals 2025:
 
 - 📂 Expandir meu portfólio
 
@@ -27,15 +27,19 @@
 - 🗣️ Evoluir no inglês.
 
 ### 👉 Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,sass,styledcomponents,bootstrap,materialui,jest,figma,redux
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,jest,figma,redux
+)](https://skillicons.dev)
+
+### 👉 Bibliotecas de estilização
+[![Habilidades front-end](https://skillicons.dev/icons?sass,styledcomponents,bootstrap,materialui
 )](https://skillicons.dev)
  
- ### 👉 Backend (estudando)
-[![Habilidades back-end](https://skillicons.dev/icons?i=kotlin
+ ### 👉 Backend
+[![Habilidades back-end](https://skillicons.dev/icons?i=kotlin,cs,dotnet
 )](https://skillicons.dev)
 
 ### 👉 Code versioning, S.O e IDE
-[![Outras informações](https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode
+[![Outras informações](https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,rider
 )](https://skillicons.dev)
 
 ### 👉 Other Tools and Technologies
@@ -44,17 +48,18 @@
 ![Insomnia](https://img.shields.io/badge/insomnia-purple.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-006400.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-white.svg?style=for-the-badge&logo=strapi&logoColor=4945FF)
+![Aurelia](https://img.shields.io/badge/aurelia-white.svg?style=for-the-badge&logo=aurelia&logoColor=#961A71)
 
 ![CleanCode](https://img.shields.io/badge/Clean%20Code-devRel-_.svg)
 
 ### 👉 Para todos verem
-- No front-end possui os icones do HTML, CSS, Javascript, Typescript, React, Next, Sass, Styled Components, Bootstrap, Material ui, Jest, Figma e Redux.
+- No front-end possui os icones do HTML, CSS, Javascript, Typescript, React, Next, Jest, Figma, Redux.
 
-- No back-end possui o icones de Kotlin (estudando).
+- No back-end possui o icones de Kotlin, C# / .Net
 
 - No Code versioning, S.O e IDE possui os icones do Linux, Git, Github, Gitlab e Visual Studio Code (vscode) + Windows.
 
-- No Other Tools and Technologies possui os icones do Docker, Postman, Insomnia, Swagger e Strapi.
+- No Other Tools and Technologies possui os icones do Docker, Postman, Insomnia, Swagger, Strapi e Aurelia js
 
 <br />
 
