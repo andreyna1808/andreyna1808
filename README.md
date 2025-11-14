@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    Tenho 23 anos, atualmente trabalho como Desenvolvedora Full Stack (Frontend: Js/Ts e Backend: C#/.Net)
+    Tenho 24 anos, atualmente trabalho como Desenvolvedora Full Stack (Frontend: Js/Ts e Backend: C#/.Net)
   </em>
 </p>
 
@@ -16,11 +16,11 @@
  - Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado.
  - Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
 
-### 📊 Goals 2025:
+### 📊 Goals 2026:
 
 - 📂 Expandir meu portfólio
 
-- 🤝 Contribuir para a comunidade Dev (respondendo no stackoverflow e gerando conteúdos nas redes)
+- 🤝 Contribuir para a comunidade Dev
 
 - 📈 Aprofundar meus conhecimentos e praticar lógica de programação no CodeWars
 
@@ -64,6 +64,8 @@
 <br />
 
 ### 📈 My Statistics
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/andreyna.m.carvalho.png" alt="Meu perfil no hackerOne" />
 
 | Geral                                                                                                                                                           | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
