@@ -27,7 +27,7 @@
 - 🗣️ Evoluir no inglês.
 
 ### 👉 Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,jest,figma,redux
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,jest,figma,redux
 )](https://skillicons.dev)
 
 ### 👉 Bibliotecas de estilização
