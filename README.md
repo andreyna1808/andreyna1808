@@ -63,13 +63,7 @@
 
 <br />
 
-### 📈 My Statistics
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/andreyna.m.carvalho.png" alt="Meu perfil no hackerOne" />
-
-| Geral                                                                                                                                                           | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![README](https://github-readme-stats.vercel.app/api?username=andreyna1808&show_icons=true&theme=gruvbox&hide_border=true") | ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyna1808&layout=compact&theme=gruvbox)
 
 ### 👉 Contact
 <div> 
